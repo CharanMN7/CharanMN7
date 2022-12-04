@@ -7,6 +7,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Array splice&lpar;&rpar; Method](https://medium.com/@CharanMN7/javascript-array-splice-method-af1a20da13b9?source=rss-86d4f6c1daf9------2)
+- [Learn about CSS selectors](https://medium.com/@CharanMN7/learn-about-css-selectors-3f54af09e814?source=rss-86d4f6c1daf9------2)
+- [How to host a website on GitHub](https://medium.com/@CharanMN7/how-to-host-a-website-on-github-10476e7f10cc?source=rss-86d4f6c1daf9------2)
+- [How to import custom fonts to your website using @font-face in CSS](https://medium.com/@CharanMN7/how-to-use-custom-fonts-in-your-website-6fae405ac5f5?source=rss-86d4f6c1daf9------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
