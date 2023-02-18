@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Charan!</h1>
 <h3 align="center">Aspiring Software Engineer</h3>
 
-<a href="https://app.daily.dev/Charan"><img src="https://github.com/CharanMN7/CharanMN7/blob/main/devcard.svg" width="400" alt="Charan's Dev Card"/></a>
+<a href="https://app.daily.dev/Charan" style="position: absolute; right: 0;"><img src="https://github.com/CharanMN7/CharanMN7/blob/main/devcard.svg" width="400" alt="Charan's Dev Card"/></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanmn7&label=Profile%20views&color=0e75b6&style=flat" alt="charanmn7" /> </p>
 
