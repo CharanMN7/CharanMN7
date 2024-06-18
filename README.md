@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charan</h1>
-<h3 align="center">Full-Stack powered by Intel core entrepreneur.</h3>
+<h3 align="center">Full-Stack dev, aspiring entrpreneurial</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanmn7&label=Profile%20views&color=0e75b6&style=flat" alt="charanmn7" /> </p>
 
@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/charanmnx" target="blank"><img src="https://img.shields.io/twitter/follow/charanmnx?logo=twitter&style=for-the-badge" alt="charanmnx" /></a> </p>
 
-- 🔭 I’m currently working on **a secret project**
+- 🔭 I’m currently working on **a secret AI project.**
 
 - 🌱 I’m currently learning **Flutter to turn my idea into a mobile app that people can use.**
 
-- 🤝 I’m looking for help with **any full stack project that uses React/NextJS**
+- 🤝 I’m looking for help with **any full stack project that uses React/NextJS, and pretty much any software/technical problem speciafically if you're building a startup**
 
 - 💬 Ask me about **React, UI/UX Design, and JavaScript**
 
