@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charan</h1>
-<h3 align="center">Full-Stack dev, aspiring entrpreneurial</h3>
+<h3 align="center">Full-Stack dev, aspiring entrpreneur</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanmn7&label=Profile%20views&color=0e75b6&style=flat" alt="charanmn7" /> </p>
 
