@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanmn7&label=Profile%20views&color=0e75b6&style=flat" alt="charanmn7" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charanmn7" alt="charanmn7" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charanmn7" alt="charanmn7" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/charanmnx" target="blank"><img src="https://img.shields.io/twitter/follow/charanmnx?logo=twitter&style=for-the-badge" alt="charanmnx" /></a> </p>
 
@@ -32,4 +32,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=charanmn7&show_icons=true&locale=en" alt="charanmn7" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charanmn7&" alt="charanmn7" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=charanmn7&" alt="charanmn7" /></p> -->
