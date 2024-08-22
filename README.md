@@ -1,1 +1,2 @@
-# [charan.dev](httpps://charan.dev/)
+# charan.dev
+Go here: [Link](httpps://charan.dev/)
